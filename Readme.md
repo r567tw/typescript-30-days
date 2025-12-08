@@ -27,4 +27,5 @@ npx tsc // 編譯出來
 ## Daily Topics
 
 - Day 1: Hello World
-- Day 2：Array & Tuple
+- Day 2: Array & Tuple
+- Day 3: Interface & Type Alias
