@@ -30,3 +30,4 @@ npx tsc // 編譯出來
 - Day 2: Array & Tuple
 - Day 3: Interface & Type Alias
 - Day 4: Classes & Encapsulation
+- Day 5: Union, Literal, & Optional
