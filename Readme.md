@@ -31,3 +31,4 @@ npx tsc // 編譯出來
 - Day 3: Interface & Type Alias
 - Day 4: Classes & Encapsulation
 - Day 5: Union, Literal, & Optional
+- Day 6: Type Guards & Narrowing
