@@ -33,3 +33,4 @@ npx tsc // 編譯出來
 - Day 5: Union, Literal, & Optional
 - Day 6: Type Guards & Narrowing
 - Day 7: Function Overloads & Non-Returning Types
+- Day 8: Generics Fundamentals
