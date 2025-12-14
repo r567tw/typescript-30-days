@@ -34,3 +34,4 @@ npx tsc // 編譯出來
 - Day 6: Type Guards & Narrowing
 - Day 7: Function Overloads & Non-Returning Types
 - Day 8: Generics Fundamentals
+- Day 9: Generic Constraints
