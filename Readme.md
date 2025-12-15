@@ -35,3 +35,4 @@ npx tsc // 編譯出來
 - Day 7: Function Overloads & Non-Returning Types
 - Day 8: Generics Fundamentals
 - Day 9: Generic Constraints
+- Day 10: Property Type Extraction
