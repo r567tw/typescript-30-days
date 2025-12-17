@@ -37,3 +37,4 @@ npx tsc // 編譯出來
 - Day 9: Generic Constraints
 - Day 10: Property Type Extraction
 - Day 11: Built-in Utility Types I: Modifiers: Partial<T> and Readonly<T>
+- Day 12: Built-in Utility Types II: Structural Filtering: Pick<T, K> and Omit<T, K>
