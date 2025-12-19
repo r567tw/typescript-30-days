@@ -39,3 +39,4 @@ npx tsc // 編譯出來
 - Day 11: Built-in Utility Types I: Modifiers: Partial<T> and Readonly<T>
 - Day 12: Built-in Utility Types II: Structural Filtering: Pick<T, K> and Omit<T, K>
 - Day 13: Mapped Types I: Custom Utility Types: [K in keyof T]: T[K] implementing Partial<T>
+- Day 14: Advanced Mapped Types: Removing Modifiers: (-? and -readonly) implementing Required<T>.
