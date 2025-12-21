@@ -50,3 +50,4 @@ npx tsc // 編譯出來
 - Day 22: Discriminated Union State & Render
 - Day 23: Type Guard Practices
 - Day 24: Function Overloading
+- Day 25: Type Validator for unknown
