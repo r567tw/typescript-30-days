@@ -47,3 +47,4 @@ npx tsc // 編譯出來
 - Day 19: Tuple to Union & First Element Extraction,Variadic Tuple Types & Indexed Access
 - Day 20: Deep Readonly: Mastering Recursive Types,Implementing recursion within the type system
 - Day 21: Generic API Service & Type Assertion
+- Day 22: Discriminated Union State & Render
