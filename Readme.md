@@ -42,3 +42,4 @@ npx tsc // 編譯出來
 - Day 14: Advanced Mapped Types: Removing Modifiers: (-? and -readonly) implementing Required<T>.
 - Day 15: Conditional Types
 - Day 16: Advanced Conditional Types: infer Keyword
+- Day 17: Hand-implementing Parameters<T>,Using infer to extract function arguments
