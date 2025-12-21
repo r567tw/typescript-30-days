@@ -49,3 +49,4 @@ npx tsc // 編譯出來
 - Day 21: Generic API Service & Type Assertion
 - Day 22: Discriminated Union State & Render
 - Day 23: Type Guard Practices
+- Day 24: Function Overloading
