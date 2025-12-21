@@ -53,3 +53,4 @@ npx tsc // 編譯出來
 - Day 25: Type Validator for unknown
 - Day 26: Type-Safe Event Emitter
 - Day 27: Template Literal Types
+- Day 28: Deep Merge
