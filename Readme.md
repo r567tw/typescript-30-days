@@ -45,3 +45,4 @@ npx tsc // 編譯出來
 - Day 17: Hand-implementing Parameters<T>,Using infer to extract function arguments
 - Day 18: Hand-implementing ReturnType<T>,Using infer to capture return values
 - Day 19: Tuple to Union & First Element Extraction,Variadic Tuple Types & Indexed Access
+- Day 20: Deep Readonly: Mastering Recursive Types,Implementing recursion within the type system
