@@ -44,3 +44,4 @@ npx tsc // 編譯出來
 - Day 16: Advanced Conditional Types: infer Keyword
 - Day 17: Hand-implementing Parameters<T>,Using infer to extract function arguments
 - Day 18: Hand-implementing ReturnType<T>,Using infer to capture return values
+- Day 19: Tuple to Union & First Element Extraction,Variadic Tuple Types & Indexed Access
