@@ -55,3 +55,4 @@ npx tsc // 編譯出來
 - Day 27: Template Literal Types
 - Day 28: Deep Merge
 - Day 29: Refactoring 'Any' to 'Unknown'
+- Day 30: Final Project - Mini Type-Safe Library
