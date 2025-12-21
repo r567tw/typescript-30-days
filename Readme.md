@@ -51,3 +51,4 @@ npx tsc // 編譯出來
 - Day 23: Type Guard Practices
 - Day 24: Function Overloading
 - Day 25: Type Validator for unknown
+- Day 26: Type-Safe Event Emitter
